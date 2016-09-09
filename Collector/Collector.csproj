@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D51EAB0-D965-4E70-B21C-DED8FC313FD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Collector</RootNamespace>
+    <AssemblyName>Collector</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collection.Designer.cs">
+      <DependentUpon>Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CollectionType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollectionType.Designer.cs">
+      <DependentUpon>CollectionType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CollectionType_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollectionType_Delete.Designer.cs">
+      <DependentUpon>CollectionType_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CollectionType_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollectionType_New.Designer.cs">
+      <DependentUpon>CollectionType_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CollectionType_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollectionType_Update.Designer.cs">
+      <DependentUpon>CollectionType_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Collection_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collection_Delete.Designer.cs">
+      <DependentUpon>Collection_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Collection_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collection_New.Designer.cs">
+      <DependentUpon>Collection_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Collection_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collection_Update.Designer.cs">
+      <DependentUpon>Collection_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Element.Designer.cs">
+      <DependentUpon>Element.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElementViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElementViewer.Designer.cs">
+      <DependentUpon>ElementViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Element_Delete.Designer.cs">
+      <DependentUpon>Element_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Element_New.Designer.cs">
+      <DependentUpon>Element_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Element_Update.Designer.cs">
+      <DependentUpon>Element_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Collection.resx">
+      <DependentUpon>Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollectionType.resx">
+      <DependentUpon>CollectionType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollectionType_Delete.resx">
+      <DependentUpon>CollectionType_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollectionType_New.resx">
+      <DependentUpon>CollectionType_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollectionType_Update.resx">
+      <DependentUpon>CollectionType_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collection_Delete.resx">
+      <DependentUpon>Collection_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collection_New.resx">
+      <DependentUpon>Collection_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collection_Update.resx">
+      <DependentUpon>Collection_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element.resx">
+      <DependentUpon>Element.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElementViewer.resx">
+      <DependentUpon>ElementViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element_Delete.resx">
+      <DependentUpon>Element_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element_New.resx">
+      <DependentUpon>Element_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element_Update.resx">
+      <DependentUpon>Element_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\wallpaper001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Bd2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\AppResources\btn_next.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\AppResources\btn_previous.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,172 @@
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\bin\Debug\Collector.exe
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\bin\Debug\Collector.pdb
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.exe
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.pdb
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\bin\Debug\Collector.exe.config
+c:\users\mpicq\documents\visual studio 2010\Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+G:\C# Projects\Collector\Collector\bin\Debug\Collector.exe.config
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.exe
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.pdb
+G:\C# Projects\Collector\Collector\bin\Debug\Collector.exe
+G:\C# Projects\Collector\Collector\bin\Debug\Collector.pdb
+G:\C# Projects\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+J:\C# Projects\Collector\Collector\bin\Debug\Collector.exe.config
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.exe
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.pdb
+J:\C# Projects\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C# Projects\Collector\Collector\bin\Debug\Collector.exe
+J:\C# Projects\Collector\Collector\bin\Debug\Collector.pdb
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+J:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+K:\C# Projects\Collector\Collector\bin\Debug\Collector.exe.config
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.exe
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.pdb
+K:\C# Projects\Collector\Collector\bin\Debug\Collector.exe
+K:\C# Projects\Collector\Collector\bin\Debug\Collector.pdb
+K:\C# Projects\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+K:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\C# Projects\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.Collector.resources
+G:\C# Projects\Collector\Collector\obj\x86\Debug\Collector.About.resources
+K:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.exe.config
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.exe
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.pdb
+K:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.exe
+K:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.pdb
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collector.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.About.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.exe.config
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.exe
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.pdb
+G:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.exe
+G:\MyApplis\##Projects##\Collector\Collector\bin\Debug\Collector.pdb
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collector.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.ElementViewer.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.About.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\MyApplis\##Projects##\Collector\Collector\obj\x86\Debug\Collector.ElementViewer.resources
+G:\##Projects##\Collector\Collector\bin\Debug\Collector.exe.config
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.exe
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.pdb
+G:\##Projects##\Collector\Collector\bin\Debug\Collector.exe
+G:\##Projects##\Collector\Collector\bin\Debug\Collector.pdb
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collector.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.ElementViewer.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.About.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+K:\##Projects##\Collector\Collector\bin\Debug\Collector.exe.config
+K:\##Projects##\Collector\Collector\bin\Debug\Collector.exe
+K:\##Projects##\Collector\Collector\bin\Debug\Collector.pdb
+K:\##Projects##\Collector\Collector\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collector.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Delete.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_New.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.CollectionType_Update.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Delete.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_New.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Collection_Update.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.ElementViewer.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Delete.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_New.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Element_Update.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.About.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Properties.Resources.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.Welcome.resources
+K:\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\##Projects##\Collector\Collector\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.exe
+K:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.pdb
+H:\archives\##Projects##\Collector\Collector\bin\Debug\Collector.exe.config
+H:\archives\##Projects##\Collector\Collector\obj\x86\Debug\Collector.exe
+H:\archives\##Projects##\Collector\Collector\obj\x86\Debug\Collector.pdb
+G:\##Projects##\Collector\Collector\obj\x86\Debug\Collector.csproj.GenerateResource.Cache

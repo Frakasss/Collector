@@ -1,0 +1,1305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<myCollectionsDb>
+  <myCollectionsTypes>
+    <myCollectionType>
+      <id>9</id>
+      <Name>Champagne</Name>
+      <Image>Images\Images\CollecType9.PNG</Image>
+      <Miniature>Images\Miniature\CollecType9.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>6</id>
+      <Name>Cuisine</Name>
+      <Image>Images\Images\CollecType6.PNG</Image>
+      <Miniature>Images\Miniature\CollecType6.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>8</id>
+      <Name>Dessins</Name>
+      <Image>Images\Images\CollecType8.PNG</Image>
+      <Miniature>Images\Miniature\CollecType8.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>10</id>
+      <Name>Jeux Videos</Name>
+      <Image>Images\Images\CollecType10.PNG</Image>
+      <Miniature>Images\Miniature\CollecType10.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>1</id>
+      <Name>Jouets Mecaniques</Name>
+      <Image>Images\Images\CollecType1.PNG</Image>
+      <Miniature>Images\Miniature\CollecType1.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>2</id>
+      <Name>Lego</Name>
+      <Image>Images\Images\CollecType2.PNG</Image>
+      <Miniature>Images\Miniature\CollecType2.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>7</id>
+      <Name>Peluches</Name>
+      <Image>Images\Images\CollecType7.PNG</Image>
+      <Miniature>Images\Miniature\CollecType7.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>5</id>
+      <Name>Series</Name>
+      <Image>Images\Images\CollecType5.PNG</Image>
+      <Miniature>Images\Miniature\CollecType5.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>3</id>
+      <Name>Bandes Dessinees</Name>
+      <Image>Images\Images\CollecType3.PNG</Image>
+      <Miniature>Images\Miniature\CollecType3.PNG</Miniature>
+    </myCollectionType>
+    <myCollectionType>
+      <id>4</id>
+      <Name>Films</Name>
+      <Image>Images\Images\CollecType4.PNG</Image>
+      <Miniature>Images\Miniature\CollecType4.PNG</Miniature>
+    </myCollectionType>
+  </myCollectionsTypes>
+  <myCollections>
+    <myCollection>
+      <id>2</id>
+      <Name>Asterix</Name>
+      <Description>Nous sommes en 50 avant Jésus-Christ; toute la Gaule est occupée par les Romains… Toute ? Non ! Car un village peuplé d'irréductibles Gaulois résiste encore et toujours à l'envahisseur.</Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec2.jpg</Image>
+      <Miniature>Images/Miniatures/Collec2.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>4</id>
+      <Name>Consoles</Name>
+      <Description></Description>
+      <MemberOf>10</MemberOf>
+      <Image>Images\Images\Collec4.jpg</Image>
+      <Miniature>Images\Miniature\Collec4.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>5</id>
+      <Name>Cédric</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec5.jpg</Image>
+    </myCollection>
+    <myCollection>
+      <id>6</id>
+      <Name>Krän le Barbar</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec6.jpg</Image>
+      <Miniature>Images/Miniatures/Collec6.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>3</id>
+      <Name>Les Tuniques Bleues</Name>
+      <Description>Le gros, c'est Cornélius Chesterfield, sergent zélé et discipliné de l'armée du Nord des Etats-Unis.
+Le petit, c'est Blutch, un malin râleur et désabusé qui ne rêve que de déserter.
+Pris dans les affres de la Guerre de Sécession, ces deux-là font ce qu'ils peuvent pour échapper aux ennuis.</Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec3.jpg</Image>
+    </myCollection>
+    <myCollection>
+      <id>1</id>
+      <Name>Tintin et Milou</Name>
+      <Description>Les aventures de Tintin, reporter, et son son fidele chien, Milou</Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec1.jpg</Image>
+    </myCollection>
+    <myCollection>
+      <id>7</id>
+      <Name>Lanfeust de Troy</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec7.jpg</Image>
+      <Miniature>Images/Miniatures/Collec7.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>8</id>
+      <Name>Lanfeust des Etoiles</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec8.jpg</Image>
+      <Miniature>Images/Miniatures/Collec8.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>10</id>
+      <Name>Lucky Luke</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec10.jpg</Image>
+    </myCollection>
+    <myCollection>
+      <id>11</id>
+      <Name>Gotlib</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec11.jpg</Image>
+      <Miniature>Images/Miniatures/Collec11.jpg</Miniature>
+    </myCollection>
+    <myCollection>
+      <id>9</id>
+      <Name>Rantanplan</Name>
+      <Description></Description>
+      <MemberOf>3</MemberOf>
+      <Image>Images/Images/Collec9.jpg</Image>
+    </myCollection>
+  </myCollections>
+  <myElements>
+    <myElement>
+      <id>8</id>
+      <Name>03 - Tintin en Amérique</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element8.jpg</Image>
+      <Miniature>Images/Miniatures/Element8.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>9</id>
+      <Name>04 - Les Cigares du Pharaon</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element9.jpg</Image>
+      <Miniature>Images/Miniatures/Element9.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>10</id>
+      <Name>05 - Le Lotus Bleu</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element10.jpg</Image>
+      <Miniature>Images/Miniatures/Element10.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>11</id>
+      <Name>06 - L'oreille Cassée</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element11.jpg</Image>
+      <Miniature>Images/Miniatures/Element11.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>12</id>
+      <Name>07 - L'ile Noire</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element12.jpg</Image>
+      <Miniature>Images/Miniatures/Element12.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>13</id>
+      <Name>08 - Le Sceptre d'Ottokar</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element13.jpg</Image>
+      <Miniature>Images/Miniatures/Element13.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>14</id>
+      <Name>09 - Le Crabe aux Pinces d'Or</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element14.jpg</Image>
+      <Miniature>Images/Miniatures/Element14.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>15</id>
+      <Name>10 - L'Etoile Mystérieuse</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element15.jpg</Image>
+      <Miniature>Images/Miniatures/Element15.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>16</id>
+      <Name>11 - Le Secret de la Licorne</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element16.jpg</Image>
+      <Miniature>Images/Miniatures/Element16.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>18</id>
+      <Name>13 - Les 7 Boules de Cristal</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element18.jpg</Image>
+      <Miniature>Images/Miniatures/Element18.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>19</id>
+      <Name>14 - Le Temple du Soleil</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element19.jpg</Image>
+      <Miniature>Images/Miniatures/Element19.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>20</id>
+      <Name>15 - L'or Noir</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element20.jpg</Image>
+      <Miniature>Images/Miniatures/Element20.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>21</id>
+      <Name>16 - Objectif Lune</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element21.jpg</Image>
+      <Miniature>Images/Miniatures/Element21.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>22</id>
+      <Name>17 - On a Marché sur la Lune</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element22.jpg</Image>
+      <Miniature>Images/Miniatures/Element22.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>23</id>
+      <Name>18 - L'Affaire Tournesol</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element23.jpg</Image>
+      <Miniature>Images/Miniatures/Element23.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>24</id>
+      <Name>19 - Coke en Stock</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element24.jpg</Image>
+      <Miniature>Images/Miniatures/Element24.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>25</id>
+      <Name>20 - Tintin au Tibet</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element25.jpg</Image>
+      <Miniature>Images/Miniatures/Element25.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>26</id>
+      <Name>21 - Les Bijoux de la Castafiore</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element26.jpg</Image>
+      <Miniature>Images/Miniatures/Element26.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>27</id>
+      <Name>22 - Vol 714 pour Sydney</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element27.jpg</Image>
+      <Miniature>Images/Miniatures/Element27.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>28</id>
+      <Name>23 - Tintin et les Picaros</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element28.jpg</Image>
+      <Miniature>Images/Miniatures/Element28.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>29</id>
+      <Name>24 - Tintin et l'Alph-Art</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element29.jpg</Image>
+      <Miniature>Images/Miniatures/Element29.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>1</id>
+      <Name>01 - Tintin au pays des Soviets </Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element1.jpg</Image>
+      <Miniature>Images/Miniatures/Element1.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>5</Rating>
+    </myElement>
+    <myElement>
+      <id>2</id>
+      <Name>02 - Tintin  au Congo</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element2.jpg</Image>
+      <Miniature>Images/Miniatures/Element2.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>3</id>
+      <Name>GameBoy</Name>
+      <Description></Description>
+      <MemberOf>4</MemberOf>
+      <Image>Images/Images/Element3.jpg</Image>
+      <Miniature>Images/Miniatures/Element3.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>6</id>
+      <Name>GameBoy Color</Name>
+      <Description></Description>
+      <MemberOf>4</MemberOf>
+      <Image>Images/Images/Element6.jpg</Image>
+      <Miniature>Images/Miniatures/Element6.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>4</id>
+      <Name>PlayStation 1</Name>
+      <Description></Description>
+      <MemberOf>4</MemberOf>
+      <Image>Images/Images/Element4.jpg</Image>
+      <Miniature>Images/Miniatures/Element4.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>5</id>
+      <Name>PlayStation 2 - Slim</Name>
+      <Description></Description>
+      <MemberOf>4</MemberOf>
+      <Image>Images/Images/Element5.jpg</Image>
+      <Miniature>Images/Miniatures/Element5.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>7</id>
+      <Name>Wii</Name>
+      <Description></Description>
+      <MemberOf>4</MemberOf>
+      <Image>Images/Images/Element7.jpg</Image>
+      <Miniature>Images/Miniatures/Element7.jpg</Miniature>
+      <GotIt>1</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>17</id>
+      <Name>12 - Trésor de Rackham le Rouge</Name>
+      <Description></Description>
+      <MemberOf>1</MemberOf>
+      <Image>Images/Images/Element17.jpg</Image>
+      <Miniature>Images/Miniatures/Element17.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>30</id>
+      <Name>01 - Astérix le Gaulois</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element30.jpg</Image>
+      <Miniature>Images/Miniatures/Element30.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>31</id>
+      <Name>02 - La Serpe d'Or</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element31.jpg</Image>
+      <Miniature>Images/Miniatures/Element31.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>32</id>
+      <Name>03 - Astérix et les Goths</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element32.jpg</Image>
+      <Miniature>Images/Miniatures/Element32.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>33</id>
+      <Name>04 - Astérix Gladiateur</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element33.jpg</Image>
+      <Miniature>Images/Miniatures/Element33.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>34</id>
+      <Name>05 - Le tour de Gaule d'Astérix</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element34.jpg</Image>
+      <Miniature>Images/Miniatures/Element34.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>35</id>
+      <Name>06 - Astérix et Cléopatre</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element35.jpg</Image>
+      <Miniature>Images/Miniatures/Element35.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>36</id>
+      <Name>07 - Le Combat des Chefs</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element36.jpg</Image>
+      <Miniature>Images/Miniatures/Element36.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>37</id>
+      <Name>08 - Astérix chez les Bretons</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element37.jpg</Image>
+      <Miniature>Images/Miniatures/Element37.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>38</id>
+      <Name>09 - Astérix et les Normands</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element38.jpg</Image>
+      <Miniature>Images/Miniatures/Element38.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>39</id>
+      <Name>10 - Astérix Légionaire</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element39.jpg</Image>
+      <Miniature>Images/Miniatures/Element39.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>40</id>
+      <Name>11 - Le Bouclier Averne</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element40.JPG</Image>
+      <Miniature>Images/Miniatures/Element40.JPG</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>41</id>
+      <Name>12 - Astérix aux Jeux Olympiques</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element41.jpg</Image>
+      <Miniature>Images/Miniatures/Element41.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>42</id>
+      <Name>13 - Astérix et le Chaudron</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element42.jpg</Image>
+      <Miniature>Images/Miniatures/Element42.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>43</id>
+      <Name>14 - Astérix en Hispanie</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element43.jpg</Image>
+      <Miniature>Images/Miniatures/Element43.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>44</id>
+      <Name>15 - La Zizanie</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element44.jpg</Image>
+      <Miniature>Images/Miniatures/Element44.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>45</id>
+      <Name>16 - Astérix chez les Helvètes</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element45.jpg</Image>
+      <Miniature>Images/Miniatures/Element45.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>46</id>
+      <Name>17 - Le Domaine des Dieux</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element46.jpg</Image>
+      <Miniature>Images/Miniatures/Element46.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>47</id>
+      <Name>18 - Les Lauriers de César</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element47.jpg</Image>
+      <Miniature>Images/Miniatures/Element47.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>48</id>
+      <Name>19 - Le Devin</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element48.jpg</Image>
+      <Miniature>Images/Miniatures/Element48.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>49</id>
+      <Name>20 - Astérix en Corse</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element49.jpg</Image>
+      <Miniature>Images/Miniatures/Element49.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>50</id>
+      <Name>21 - Le Cadeau de César</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element50.jpg</Image>
+      <Miniature>Images/Miniatures/Element50.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>51</id>
+      <Name>22 - La Grande Traversée</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element51.jpg</Image>
+      <Miniature>Images/Miniatures/Element51.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>52</id>
+      <Name>23 - Obélix et Compagnie</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element52.jpg</Image>
+      <Miniature>Images/Miniatures/Element52.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>53</id>
+      <Name>24 - Astérix chez les Belges</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element53.jpg</Image>
+      <Miniature>Images/Miniatures/Element53.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>54</id>
+      <Name>25 - Le Grand Fossé</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element54.jpg</Image>
+      <Miniature>Images/Miniatures/Element54.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>55</id>
+      <Name>26 - L'odyssée d'Astérix</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element55.jpg</Image>
+      <Miniature>Images/Miniatures/Element55.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>56</id>
+      <Name>27 - Le Fils d'Astérix</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element56.jpg</Image>
+      <Miniature>Images/Miniatures/Element56.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>57</id>
+      <Name>28 - Astérix chez Rahazade</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element57.jpg</Image>
+      <Miniature>Images/Miniatures/Element57.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>58</id>
+      <Name>29 - La Rose et le Glaive</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element58.jpg</Image>
+      <Miniature>Images/Miniatures/Element58.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>59</id>
+      <Name>30 - La Galère d'Obélix</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element59.jpg</Image>
+      <Miniature>Images/Miniatures/Element59.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>60</id>
+      <Name>31 - Astérix et la Traviata</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element60.jpg</Image>
+      <Miniature>Images/Miniatures/Element60.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>61</id>
+      <Name>32 - Astérix et la Rentrée Gauloise</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element61.jpg</Image>
+      <Miniature>Images/Miniatures/Element61.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>62</id>
+      <Name>33 - Le ciel lui tombe sur la Tête</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element62.jpg</Image>
+      <Miniature>Images/Miniatures/Element62.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>63</id>
+      <Name>34 - L'Anniversaire d'Astérix et Obélix</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element63.jpg</Image>
+      <Miniature>Images/Miniatures/Element63.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>64</id>
+      <Name>35 - Astérix chez les Pictes</Name>
+      <Description></Description>
+      <MemberOf>2</MemberOf>
+      <Image>Images/Images/Element64.jpg</Image>
+      <Miniature>Images/Miniatures/Element64.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>65</id>
+      <Name>01 - Premières Classes</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element65.jpg</Image>
+      <Miniature>Images/Miniatures/Element65.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>66</id>
+      <Name>02 - Classes de Neige</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element66.jpg</Image>
+      <Miniature>Images/Miniatures/Element66.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>67</id>
+      <Name>03 - Classe tous risques</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element67.jpg</Image>
+      <Miniature>Images/Miniatures/Element67.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>68</id>
+      <Name>04 - Papa a de la Classe</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element68.jpg</Image>
+      <Miniature>Images/Miniatures/Element68.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>69</id>
+      <Name>05 - Quelle Mouche le Pique?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element69.jpg</Image>
+      <Miniature>Images/Miniatures/Element69.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>70</id>
+      <Name>06 - Chaud et Froid</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element70.jpg</Image>
+      <Miniature>Images/Miniatures/Element70.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>71</id>
+      <Name>07 - Pépé se Mouille</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element71.jpg</Image>
+      <Miniature>Images/Miniatures/Element71.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>72</id>
+      <Name>08 - Comme sur des Roulettes</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element72.jpg</Image>
+      <Miniature>Images/Miniatures/Element72.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>73</id>
+      <Name>09 - Parasite sur Canapé</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element73.jpg</Image>
+      <Miniature>Images/Miniatures/Element73.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>74</id>
+      <Name>10 - Gateau Surprise</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element74.jpg</Image>
+      <Miniature>Images/Miniatures/Element74.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>75</id>
+      <Name>11 - Cygne d'Etang</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element75.jpg</Image>
+      <Miniature>Images/Miniatures/Element75.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>76</id>
+      <Name>12 - Terrain minets</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element76.jpg</Image>
+      <Miniature>Images/Miniatures/Element76.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>77</id>
+      <Name>13 - Papa, je veux un Cheval</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element77.jpg</Image>
+      <Miniature>Images/Miniatures/Element77.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>78</id>
+      <Name>14 - Au Pied, j'ai dit!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element78.jpg</Image>
+      <Miniature>Images/Miniatures/Element78.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>79</id>
+      <Name>15 - Avis de Tempête</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element79.jpg</Image>
+      <Miniature>Images/Miniatures/Element79.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>80</id>
+      <Name>16 - Ou sont les Freins?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element80.jpg</Image>
+      <Miniature>Images/Miniatures/Element80.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>81</id>
+      <Name>17 - Qui a éteint la Lumière?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element81.jpg</Image>
+      <Miniature>Images/Miniatures/Element81.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>82</id>
+      <Name>18 - Enfin seuls!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element82.jpg</Image>
+      <Miniature>Images/Miniatures/Element82.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>83</id>
+      <Name>19 - On se Calme!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element83.jpg</Image>
+      <Miniature>Images/Miniatures/Element83.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>84</id>
+      <Name>20 - J'ai Fini!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element84.jpg</Image>
+      <Miniature>Images/Miniatures/Element84.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>85</id>
+      <Name>21 - On Rêvasse?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element85.jpg</Image>
+      <Miniature>Images/Miniatures/Element85.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>86</id>
+      <Name>22 - Elle est Moche!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element86.jpg</Image>
+      <Miniature>Images/Miniatures/Element86.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>87</id>
+      <Name>23 - Je Veux l'Epouser!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element87.jpg</Image>
+      <Miniature>Images/Miniatures/Element87.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>88</id>
+      <Name>24 - J'ai Gagné!</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element88.jpg</Image>
+      <Miniature>Images/Miniatures/Element88.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>89</id>
+      <Name>25 - Qu'est ce qu'il a?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element89.jpg</Image>
+      <Miniature>Images/Miniatures/Element89.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>90</id>
+      <Name>26 - Graine de Star</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element90.jpg</Image>
+      <Miniature>Images/Miniatures/Element90.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>91</id>
+      <Name>27 - C'est quand qu'on part?</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element91.jpg</Image>
+      <Miniature>Images/Miniatures/Element91.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>92</id>
+      <Name>28 - Faux Départ</Name>
+      <Description></Description>
+      <MemberOf>5</MemberOf>
+      <Image>Images/Images/Element92.jpg</Image>
+      <Miniature>Images/Miniatures/Element92.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>93</id>
+      <Name>01 - Les Runes de Gartagueul</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element93.jpg</Image>
+      <Miniature>Images/Miniatures/Element93.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>94</id>
+      <Name>02 - Le Walou Walou Ancestral</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element94.jpg</Image>
+      <Miniature>Images/Miniatures/Element94.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>95</id>
+      <Name>03 - Gare aux garous</Name>
+      <Description>2001</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element95.jpg</Image>
+      <Miniature>Images/Miniatures/Element95.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>96</id>
+      <Name>04 - Le Grand Tournoi</Name>
+      <Description>2001</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element96.jpg</Image>
+      <Miniature>Images/Miniatures/Element96.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>97</id>
+      <Name>05 - L'Invasion des envahisseurs</Name>
+      <Description>2002</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element97.jpg</Image>
+      <Miniature>Images/Miniatures/Element97.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>98</id>
+      <Name>06 - L'Encyclopédie de Krän</Name>
+      <Description>2003</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element98.jpg</Image>
+      <Miniature>Images/Miniatures/Element98.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>99</id>
+      <Name>07 - La Princesse Viagra</Name>
+      <Description>2005</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element99.jpg</Image>
+      <Miniature>Images/Miniatures/Element99.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>100</id>
+      <Name>07b - La Princesse de Mormoille</Name>
+      <Description>La Princesse Viagra (2005), interdit à la vente sous ce nom et retiré des étales par une injonction judiciaire de la société américaine Pfizer, propriétaire de la marque Viagra®1.
+réédité sous le titre La Princesse de Mormoille</Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element100.jpg</Image>
+      <Miniature>Images/Miniatures/Element100.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>101</id>
+      <Name>08 - The Key Quête Quouest Ouane</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element101.jpg</Image>
+      <Miniature>Images/Miniatures/Element101.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>102</id>
+      <Name>09 - The Key Quête Quouest Tou</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element102.jpg</Image>
+      <Miniature>Images/Miniatures/Element102.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>103</id>
+      <Name>10 - Viva Lastrépasse</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element103.jpg</Image>
+      <Miniature>Images/Miniatures/Element103.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>104</id>
+      <Name>Kran Universe 1 - Coup de mou chez les durs</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element104.jpg</Image>
+      <Miniature>Images/Miniatures/Element104.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>105</id>
+      <Name>Kran Universe 2 - Ultimate D.T.C</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element105.jpg</Image>
+      <Miniature>Images/Miniatures/Element105.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>106</id>
+      <Name>Kran Universe 3 - Love lovemidou </Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element106.jpg</Image>
+      <Miniature>Images/Miniatures/Element106.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>107</id>
+      <Name>Kran Universe 4 - Kompil' dans ta Face!</Name>
+      <Description></Description>
+      <MemberOf>6</MemberOf>
+      <Image>Images/Images/Element107.jpg</Image>
+      <Miniature>Images/Miniatures/Element107.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>108</id>
+      <Name>01 - L'Ivoire du Magohamoth</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element108.jpg</Image>
+      <Miniature>Images/Miniatures/Element108.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>109</id>
+      <Name>02 - Thanos l'incongru</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element109.jpg</Image>
+      <Miniature>Images/Miniatures/Element109.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>110</id>
+      <Name>03 - Castel Or-Azur</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element110.jpg</Image>
+      <Miniature>Images/Miniatures/Element110.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>111</id>
+      <Name>04 - Le Paladin d'Eckmül</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element111.jpg</Image>
+      <Miniature>Images/Miniatures/Element111.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>112</id>
+      <Name>05 - Le Frisson de l'haruspice</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element112.jpg</Image>
+      <Miniature>Images/Miniatures/Element112.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>113</id>
+      <Name>06 - Cixi impératrice</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element113.jpg</Image>
+      <Miniature>Images/Miniatures/Element113.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>114</id>
+      <Name>07 - Les Pétaures se cachent pour mourir</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element114.jpg</Image>
+      <Miniature>Images/Miniatures/Element114.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+    <myElement>
+      <id>115</id>
+      <Name>08 - La Bête fabuleuse</Name>
+      <Description></Description>
+      <MemberOf>7</MemberOf>
+      <Image>Images/Images/Element115.jpg</Image>
+      <Miniature>Images/Miniatures/Element115.jpg</Miniature>
+      <GotIt>0</GotIt>
+      <Rating>3</Rating>
+    </myElement>
+  </myElements>
+</myCollectionsDb>
